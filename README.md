@@ -46,14 +46,6 @@
 > 👉 레포 링크: [AiM 프로젝트 바로가기](https://github.com/AiM-Club/AiM-server)
 
 
-### 🏃 LearnIt (스마트 그룹스터디 학습 플랫폼)
-- 역할: Backend (CI/CD 파이프라인 구축, QueryDSL을 활용한 퀴즈 조회)
-- 기술: SpringBoot, JPA, Github Actions, QueryDSL
-- 한 줄 요약: **AI가 문제를 생성하는 커뮤니티형 그룹스터디 웹 서비스**
-
-> 👉 레포 링크: [LearnIt 프로젝트 바로가기](https://github.com/DEPthes/4th-MVP-LearningCrew-Server)
-
-
 ### 🍵 Spill the Tea (시나리오 커뮤니티 플랫폼)
 - 역할: Backend (JWT 기반 회원가입 및 로그인, Redis 기반 이메일 인증, 회원 정보 CRUD, AWS 기반 인프라 관리)
 - 기술: Spring Boot, JPA, Redis, Flyway, STMP, AWS
