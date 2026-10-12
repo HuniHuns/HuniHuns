@@ -38,6 +38,13 @@
 ---
 
 ## 🚀 Projects
+### 👣 GoldenStep (알고리즘 기반 실종자 수색 지원 서비스)
+- 역할: Backend (FastAPI 및 프론트 연동, 세션 및 쿠키 관리, Docker 및 AWS 인프라 관리)
+- 기술: SpringBoot, JPA, MySQL, Docker, AWS
+- 한 줄 요약: **예상 수색 범위와 우선 확인 장소를 안내하는 지도 기반 수색 지원 서비스**
+
+> 👉 레포 링크: [GoldenStep 프로젝트 바로가기]([https://github.com/AiM-Club/AiM-server](https://github.com/Hop-Radar/goldenstep-backend))
+
 ### 🎯 AiM (AI 기반 직무 맞춤 챌린지 플랫폼)
 - 역할: Backend (LLM 연동 및 챌린지 요청 CRUD, Jira 및 Docker 기반 인프라 관리)
 - 기술: SpringBoot, JPA, MariaDB, WebSocket, Docker
